@@ -3,11 +3,12 @@
 
 ## 화면 구성
 ### Home
-![home]()
+![home](https://github.com/kor-Chipmunk/code_name_seoul/blob/master/images/home1.png?raw=true)
   
 ### Themes
-![themes]()
+![theme1](https://github.com/kor-Chipmunk/code_name_seoul/blob/master/images/theme1.png?raw=true)
+![theme2](https://github.com/kor-Chipmunk/code_name_seoul/blob/master/images/theme2.png?raw=true)
   
 ### InGame
-![ingame]()
+![ingame](https://github.com/kor-Chipmunk/code_name_seoul/blob/master/images/ingame.png?raw=true)
   
