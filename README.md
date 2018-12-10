@@ -1,24 +1,13 @@
-# README
+# Code Name: Seoul @ Likelion 5th Hackathon
+멋쟁이 사자처럼 5기 해커톤 작품입니다.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 화면 구성
+### Home
+![home]()
+  
+### Themes
+![themes]()
+  
+### InGame
+![ingame]()
+  
